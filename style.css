@@ -1,0 +1,43 @@
+main {
+    background-color: rgb(221, 216, 216);
+    height: 280px;
+    width: 400px;  
+    padding: 5px;
+}
+
+.hello {
+    background-color: rgb(42, 111, 167);
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bolder;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.my-name-is {
+    background-color:rgb(42, 111, 167);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: Didot, serif;
+}
+
+.name {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    height: 80px;
+    font-family: Bradley Hand, cursive;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 5px;
+
+}
+
+.footer {
+    background-color: rgb(42, 111, 167);
+    height: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
